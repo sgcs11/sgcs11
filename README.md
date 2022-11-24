@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello! I'm Kakao Server Developer
+### Hello! I'm Kakao Server Developer Aaron.j
+### Thank you for visiting
 
 ![image](https://user-images.githubusercontent.com/28983912/203807237-3dddba8f-50ee-4916-b828-2ff19a5ffa11.png)
 
