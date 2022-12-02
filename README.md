@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 ### Hello! I'm Kakao Server Developer Aaron.j
 ### Thank you for visiting
 
-![image](https://user-images.githubusercontent.com/28983912/203807237-3dddba8f-50ee-4916-b828-2ff19a5ffa11.png)
-
 [![sgcs11's github stats](https://github-readme-stats.vercel.app/api?username=sgcs11)](https://github.com/sgcs11/github-readme-stats)&nbsp;&nbsp;[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joachy)](https://solved.ac/joachy) 
 
