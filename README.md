@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello! I'm Kakao Server Developer Aaron.j
-### Thank you for visiting
-
 [![sgcs11's github stats](https://github-readme-stats.vercel.app/api?username=sgcs11)](https://github.com/sgcs11/github-readme-stats)&nbsp;&nbsp;[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=joachy)](https://solved.ac/joachy) 
 
